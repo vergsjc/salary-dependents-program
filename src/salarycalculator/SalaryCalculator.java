@@ -113,7 +113,7 @@ public class SalaryCalculator extends JFrame implements ActionListener {
         resultTextArea.setEditable(false);
        resultTextArea.setFont(font3);
        
-       resultTextArea.setBackground(new Color(128,128,128));
+     
   resultTextArea.setBorder(BorderFactory.createLineBorder(Color.BLACK, 1));
    
         // Add the components to the frame
